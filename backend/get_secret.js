@@ -1,0 +1,1 @@
+module.exports = {secret: 'here is the secret'}
